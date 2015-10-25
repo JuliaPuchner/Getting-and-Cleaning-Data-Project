@@ -69,12 +69,12 @@ There are 5 parts given by Coursera that must be done:
 * Extracting the column names 'mean' and 'std' deviation.
 * Loading of test and training data sets, using read.table()
 * Applying 
-** Column Names on Test and Training Data Sets.
-** only requested columns by processing only column [ ,extracted_features] from Data Sets.
-** label on Test and Training Data Sets.
+*- Column Names on Test and Training Data Sets.
+*- only requested columns by processing only column [ ,extracted_features] from Data Sets.
+*- label on Test and Training Data Sets.
 * Merging Training Data Sets and Merging Test Data Sets.
 * Combine the both data sets and perform
-** labeling
-** setting ID Variables
-** Calculate Average
-** Write txt-file as Output
+*- labeling
+*- setting ID Variables
+*- Calculate Average
+*- Write txt-file as Output
