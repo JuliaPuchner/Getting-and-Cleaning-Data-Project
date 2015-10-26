@@ -27,7 +27,7 @@ activity_labels <- read.table("./activity_labels.txt")[,2]
 features <- read.table("./features.txt")[,2]
 
 ########### Extract only the measurements on the mean and standard deviation for each measurement ###########
-extracted_features <- grepl("mean|xstd", features)
+extracted_features <- grepl("mean|std", features)
 
 
 
